@@ -1,1 +1,1 @@
-# SERVERCFG
+# SERVERCFG my
