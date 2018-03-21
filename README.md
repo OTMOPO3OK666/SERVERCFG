@@ -1,1 +1,1 @@
-# SERVERCFG my 1
+# SERVERCFG for MasterOPC Universal Modbus Server
